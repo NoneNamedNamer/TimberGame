@@ -1,0 +1,9 @@
+﻿  TimberGameMaking.cpp
+D:\diffWORKS_forPortfolio\Timber_VS\TimberGameMaking\TimberGameMaking.cpp(78,33): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\diffWORKS_forPortfolio\Timber_VS\TimberGameMaking\TimberGameMaking.cpp(266,34): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+D:\diffWORKS_forPortfolio\Timber_VS\TimberGameMaking\TimberGameMaking.cpp(292,34): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+D:\diffWORKS_forPortfolio\Timber_VS\TimberGameMaking\TimberGameMaking.cpp(345,31): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\diffWORKS_forPortfolio\Timber_VS\TimberGameMaking\TimberGameMaking.cpp(349,18): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+D:\diffWORKS_forPortfolio\Timber_VS\TimberGameMaking\TimberGameMaking.cpp(377,19): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+D:\diffWORKS_forPortfolio\Timber_VS\TimberGameMaking\TimberGameMaking.cpp(402,18): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+  TimberGameMaking.vcxproj -> D:\diffWORKS_forPortfolio\Timber_VS\TimberGameMaking\Debug\TimberGameMaking.exe

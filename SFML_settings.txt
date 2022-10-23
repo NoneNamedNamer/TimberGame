@@ -1,0 +1,7 @@
+Project - Properties:
+
+	C/C++ - General - Additional Include Directories - (dir)\include
+
+	Linker - General - Additional Library Directories - (dir)\lib
+
+	Linker - Input - Adittional Dependencies - sfml-graphics-d.lib;sfml-window-d.lib;sfml-system-d.lib;sfml-network-d.lib;sfml-audio-d.lib
